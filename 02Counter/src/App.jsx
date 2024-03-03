@@ -17,8 +17,6 @@ const addValue = () => {
 } 
 
 const removeValue  = () =>{
-  
-
   setCounter(counter - 1 )
 }
 
